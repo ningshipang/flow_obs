@@ -1,0 +1,55 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/zhenglong/2020_0826_nuaa/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/devel/include/**",
+                "/home/zhenglong/Exp_20201018/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/devel/include/**",
+                "/home/zhenglong/github/AirSim/ros/devel/include/**",
+                "/home/zhenglong/guidance_ws/devel/include/**",
+                "/home/zhenglong/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/zhenglong/guidance_ws/src/airsim_environment/include/**",
+                "/home/zhenglong/github/AirSim/ros/src/airsim_ros_pkgs/include/**",
+                "/home/zhenglong/catkin_ws/src/bebop2_vel_ctrl/include/**",
+                "/home/zhenglong/catkin_ws/src/bebop_autonomy/bebop_driver/include/**",
+                "/home/zhenglong/catkin_ws/src/bebop_vservo/include/**",
+                "/home/zhenglong/RYSX_ws/src/car_pkg/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_gazebo_control/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_actions/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_controller_gazebo/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_gazebo_plugins/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_interface/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_model/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_quadrotor_pose_estimation/include/**",
+                "/home/zhenglong/catkin_ws/src/hector_quadrotor/hector_uav_msgs/include/**",
+                "/home/zhenglong/catkin_ws/src/intercept_drone_on_ubuntu/include/**",
+                "/home/zhenglong/2020_0826_nuaa/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/src/droneyee_Optitrack/mocap_optitrack/include/**",
+                "/home/zhenglong/catkin_ws/src/multi_drone_safe_ctrl/include/**",
+                "/home/zhenglong/catkin_ws/src/my_robot/include/**",
+                "/home/zhenglong/2020_0826_nuaa/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/src/network_interface/include/**",
+                "/home/zhenglong/njq/flow_obs/src/obs/include/**",
+                "/home/zhenglong/catkin_ws/src/offb/include/**",
+                "/home/zhenglong/RYSX_ws/src/offboard_pkg/include/**",
+                "/home/zhenglong/njq/flow_obs/src/optical_flow/include/**",
+                "/home/zhenglong/catkin_ws/src/px4_mavros/include/**",
+                "/home/zhenglong/catkin_ws/src/serial_comm/include/**",
+                "/home/zhenglong/catkin_ws/src/serial_ros/include/**",
+                "/home/zhenglong/RYSX_ws/src/simulation/include/**",
+                "/home/zhenglong/RYSX_ws/src/tracker_pkg/include/**",
+                "/home/zhenglong/catkin_ws/src/vps_driver/include/**",
+                "/home/zhenglong/2020_0826_nuaa/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/src/droneyee_ZVR/vrpn_client_ros/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/opt/gcc-arm-none-eabi-7-2017-q4-major/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

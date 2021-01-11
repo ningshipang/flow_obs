@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zhenglong/2020_0826_nuaa/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/devel/lib/python2.7/dist-packages",
+        "/home/zhenglong/Exp_20201018/NUAA_BACKUP/droneyeeCode_copters_cars_zvr_optitrack/devel/lib/python2.7/dist-packages",
+        "/home/zhenglong/github/AirSim/ros/devel/lib/python2.7/dist-packages",
+        "/home/zhenglong/guidance_ws/devel/lib/python2.7/dist-packages",
+        "/home/zhenglong/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}
